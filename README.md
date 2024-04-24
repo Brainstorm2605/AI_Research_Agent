@@ -21,17 +21,20 @@ Uses the ChatFireworks large language model for text processing, summarization, 
 # Streamlit:
 Utilizes the Streamlit library for creating a web-based user interface.
 ## Installation and Setup:
-Clone the Repository: Clone this repository to your local machine.
-Create a Virtual Environment (Recommended):
+# Clone the Repository: 
+Clone this repository to your local machine.
+# Create a Virtual Environment (Recommended):
 Create a virtual environment using python -m venv venv.
-Activate the virtual environment:
+# Activate the virtual environment:
 Windows: venv\Scripts\activate
 macOS/Linux: source venv/bin/activate
 # Install Dependencies: 
-Install the required Python libraries using pip install -r requirements.txt.
-Running the Application:
-Activate Virtual Environment (if created): Ensure your virtual environment is activated using the command mentioned in step 2 above.
-Start Streamlit App: Execute streamlit run agent.py to launch the application in your web browser.
+ Install the required Python libraries using pip install -r requirements.txt
+# Running the Application:
+# Activate Virtual Environment : 
+Ensure your virtual environment is activated using the command mentioned in step 2 above.
+# Start Streamlit App: 
+Execute " streamlit run agent.py " to launch the application in your web browser.
 Enter a Topic: Input your desired research topic or query into the text box.
 View Results: The agent will automatically conduct research and display the summarized findings along with the source URL.
 ## Limitations:
