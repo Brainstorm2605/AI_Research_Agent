@@ -1,0 +1,7 @@
+langchain_community
+langchain
+faiss_cpu
+huggingface_hub
+tavily-python
+streamlit
+python-dotenv
