@@ -12,7 +12,7 @@ if but:
     if(len(wt)>0):
         tavily_tool = TavilySearchResults(max_results=1)
         tools = [tavily_tool]
-        llm =  ChatFireworks(model="accounts/fireworks/models/mixtral-8x7b-instruct",api_key="xnhQeAxEwERoqGcTqJs3YoRs294xZAoBjj1fnp6Pg5T1z11w")
+        llm =  ChatFireworks(model="accounts/fireworks/models/mixtral-8x7b-instruct",api_key="Use you Firework API key")
 
 
         human = '''TOOLS
