@@ -3,3 +3,4 @@ langchain
 tavily-python
 streamlit
 python-dotenv
+langchain-fireworks
