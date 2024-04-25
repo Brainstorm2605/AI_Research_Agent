@@ -1,6 +1,5 @@
 langchain_community
 langchain
-huggingface_hub
 tavily-python
 streamlit
 python-dotenv
